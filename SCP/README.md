@@ -3,6 +3,7 @@
 We are pleased to announce that our paper, **Self-generated Cross-modal Prompt Tuning**, has been accepted at **ECML-PKDD 2025**.
 
 This repository is built upon **MaPLe**. Most of the infrastructure remains unchanged from MaPLe.  
+
 The following files have been modified for SCP:
 - `Trainers/maple.py`
 - `Trainers/clip_text.py`
